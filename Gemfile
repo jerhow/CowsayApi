@@ -36,3 +36,4 @@ group :development do
 end
 
 gem 'tzinfo-data', '~> 1.2019', '>= 1.2019.3'
+gem 'ruby_cowsay', '~> 0.1.2'
