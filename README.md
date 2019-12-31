@@ -1,24 +1,5 @@
-# README
+# Cowsay API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just messing around with the [Cowsay gem](https://github.com/johnnyt/cowsay), which I was unaware of until I stumbled upon it [here](https://rapidapi.com/blog/how-to-build-an-api-in-ruby/). Moo.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby 2.6 + Rails 5.2
