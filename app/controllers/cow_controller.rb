@@ -1,5 +1,8 @@
 class CowController < ApplicationController
   def say
+    params.require :message
+    params.permit :cow, :balloon_type, :face_type
+    
     message       = params[:message]
     cow           = params[:cow] || 'cow'
     balloon_type  = params[:balloon_type] || 'say'
